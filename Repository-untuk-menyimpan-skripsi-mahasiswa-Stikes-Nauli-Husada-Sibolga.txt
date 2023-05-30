@@ -4,3 +4,4 @@ Repository untuk menyimpan skripsi mahasiswa Stikes Nauli Husada Sibolga
 - Prodi S1 Kesehatan Masyarakat
 - Prodi D3 Kebidanan
 Repository untuk menyimpan proposal skripsi mahasiswa Stikes Nauli Husada Sibolga
+Repository untuk menyimpan karya ilmiah PKL mahasiswa Stikes Nauli Husada Sibolga
